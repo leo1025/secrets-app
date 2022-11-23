@@ -12,3 +12,5 @@ Levels implemented:
 4. Salting and Hashing - bcrypt
 5. Cookies and Sessions - Passport.js
 6. OAuth - Passport Google OAuth
+
+Tools: EJS, MongoDB
